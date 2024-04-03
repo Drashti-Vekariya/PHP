@@ -41,9 +41,9 @@
                     <div class="footer-heading">
                         <h4>Contact Information</h4>
                     </div>
-                    <p><i class="fa fa-map-marker"></i>  kanku, Hari Road, Amreli - 365601</p>
+                    <p><i class="fa fa-map-marker"></i>  Vekariya Nagar , Amarnagar Road, Jetpur - 360370</p>
                     <ul>
-                        <li><span>Phone:</span><a href="#">+91 94271 06916</a></li>
+                        <li><span>Phone:</span><a href="#">+91 9999999999</a></li>
                         <li><span>Email:</span><a href="#">contact@kanku.com</a></li>
                     </ul>
                 </div>
@@ -52,5 +52,5 @@
     </div>
 </footer>
 <div class="sub-footer">
-    <p>Copyright © 2023 Kanku - All rights reserved : <a href="https://www.instagram.com/_ayush_sangtani_xx/" target="blank"> AYUSH SANGTANI </a> & <a href="https://www.instagram.com/ms_drashti__/" target="blank"> DRASHTI MAKADIYA</a></p>
+    <p>Copyright © 2023 Kanku - All rights reserved : <a href="https://www.instagram.com/drashti_vekariya_/" target="blank"> Drashti Vekariya </a> & <a href="https://www.instagram.com/piyu_8304/" target="blank"> Priyal Kapadiya</a></p>
 </div>
